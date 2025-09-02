@@ -1,0 +1,7 @@
+streamlit>=1.34
+pypdf>=4.2
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+openai>=1.30
+python-dotenv>=1.0
+pandas>=2.2
